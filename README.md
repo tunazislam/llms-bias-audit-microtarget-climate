@@ -51,7 +51,7 @@ mistralai
 
 ## Directory Structure:
 - `Data/`: Contains all datasets.
-- `code/`: Contains scripts for analysis.
+- `Code/`: Contains scripts for analysis.
 
 ## Citation:
 
