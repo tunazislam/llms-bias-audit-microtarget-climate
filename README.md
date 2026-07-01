@@ -1,6 +1,6 @@
 # llms-bias-audit-microtarget-climate
 This repository contains code and data for the paper titled "[Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text
-](https://arxiv.org/pdf/2601.17172)", [ACL 2026](https://2026.aclweb.org/)
+](https://aclanthology.org/2026.findings-acl.452/)", [ACL 2026](https://2026.aclweb.org/)
 
 ## Necessary Libraries
 The code is implemented in Python 3. 
@@ -58,11 +58,21 @@ mistralai
 If you find the paper/code/data useful in your work, please cite:
 
 ```
-@article{islam2026gets,
-  title={Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text},
-  author={Islam, Tunazzina},
-  journal={arXiv preprint arXiv:2601.17172},
-  year={2026}
+@inproceedings{islam-2026-gets,
+    title = "Who Gets Which Message? Auditing Demographic Bias in LLM-Generated Targeted Text",
+    author = "Islam, Tunazzina",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.452/",
+    pages = "9270--9297",
+    ISBN = "979-8-89176-395-1"
 }
 
 ```
